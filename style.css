@@ -51,7 +51,7 @@ body {
 	font: 16px/28px arial, sans-serif;
 	background-color: #eaeaea;
 	color: #333;
-	background-image: url(img/symphony.png);
+	background-image: url(symphony.png);
 }
 
 .container {
@@ -89,7 +89,7 @@ body {
 
 .hero {
 	height: 280px;
-	background-image: url(img/guitar.jpg);
+	background-image: url(guitar.jpg);
 	background-size: cover;
 	background-position: center;
 	border-top: 5px solid lightskyblue;
